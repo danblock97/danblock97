@@ -8,8 +8,8 @@ I've been coding on and off since 2013 whilst studying computer programming and 
 
 * 🌍  I'm based in Bristol, UK
 * ✉️  You can contact me at [generalgoldiez@gmail.com](mailto:generalgoldiez@gmail.com)
-* 🚀  I'm currently working on [NEXTjs Weather App](http://nextjs-weather-web-app.vercel.app/)
-* 🧠  I'm learning React, Axios, C# & Nextjs.
+* 🚀  I'm currently working on my personal portfolio
+* 🧠  I'm learning C#, React and Blazor on .NET 6.
 * 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.twitter.com/generalgoldiez" target="_blank" rel="noreferrer"><img
