@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Bristol, UK<br>✉️  You can contact me at generalgoldiez@gmail.com<br>🚀  I'm currently working on my personal portfolio<br>🧠  I'm learning C#, React and Blazor on .NET 6.<br>🤝  I'm open to collaborating on interesting projects.
+🌍  I'm based in Bristol, UK<br>✉️  You can contact me at generalgoldiez@gmail.com<br>🚀  I'm currently working on my personal portfolio https://danblockportfolio.vercel.app/<br>🧠  I'm learning C#, React and Blazor on .NET 6.<br>🤝  I'm open to collaborating on interesting projects.
 
 
 ## 🌐 Socials:
