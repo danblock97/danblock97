@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Bristol, UK<br>✉️  You can contact me at danblock1997@hotmail.co.uk<br>🚀  I'm currently working on my personal portfolio [https://danblock.vercel.app/](https://danblock.vercel.app)<br>🧠  I'm learning NextJS & appwrite<br>🤝  I'm open to collaborating on interesting projects.
+🌍  I'm based in Bristol, UK<br>✉️  You can contact me at danblock1997@hotmail.co.uk<br>🚀  I'm currently working on an Apex Legends Player Stat Tracker<br>🧠  I'm learning React & Tailwind<br>🤝  I'm open to collaborating on interesting projects.
 
 
 ## 🌐 Socials:
