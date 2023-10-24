@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Bristol, UK<br>✉️  You can contact me at danblock1997@hotmail.co.uk<br>🚀  I'm currently working on a NextJS Blog Application <a href="DiverseDiaries.vercel.app">DiverseDiaries.vercel.app</a><br>🧠  I'm learning React & Tailwind<br>🤝  I'm open to collaborating on interesting projects.
+🌍  I'm based in Bristol, UK<br>✉️  You can contact me at danblock1997@hotmail.co.uk<br>🚀  I'm currently working on a NextJS Blog Application DiverseDiaries.vercel.app<br>🧠  I'm learning React & Tailwind<br>🤝  I'm open to collaborating on interesting projects.
 
 
 ## 🌐 Socials:
