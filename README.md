@@ -9,11 +9,11 @@
 
 - 🔭 The first project I am working on is [SwiftTasks](https://swifttasks.co.uk)
 
-- 🌱 I’m currently learning **Python & NextJS**
-
 - 👯 The second project I am working on is [AstroStats](https://astrostats.vercel.app)
 
 - 🤝 The third project I am working on is [Mood Catcher](https://moodcatcher.net)
+
+- 🌱 I’m currently learning **Python & NextJS**
 
 - 👨‍💻 All of my projects are available at [https://danblock.dev](https://danblock.dev)
 
