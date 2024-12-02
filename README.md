@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/generalgoldiez" target="blank"><img src="https://img.shields.io/twitter/follow/generalgoldiez?logo=twitter&style=for-the-badge" alt="generalgoldiez" /></a> </p>
 
-- 🔭 The first project I am working on is [SwiftTasks](https://swifttasks.co.uk)
+- 🔭 The first project I am working on is [ClutchGG.LOL](https://clutchgg.lol)
 
 - 👯 The second project I am working on is [AstroStats](https://astrostats.vercel.app)
 
-- 🤝 The third project I am working on is [Mood Catcher](https://moodcatcher.net)
+- 🤝 The third project I am working on is [DiverseDiaries](https://diversediaries.com)
 
 - 🌱 I’m currently learning **Python & NextJS**
 
