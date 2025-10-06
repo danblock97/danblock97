@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/goldiez2599" target="blank"><img src="https://img.shields.io/twitter/follow/goldiez2599?logo=twitter&style=for-the-badge" alt="goldiez2599" /></a> </p>
 
-- 🔭 I’m currently working on [AstroStats](https://astrostats.info)
+- 🔭 I’m currently working on [Z3st Habits](https://z3st.app)
 
-- 🌱 I’m currently learning **.NET MAUI**
+- 🌱 I’m currently learning **Infrastructure**
 
 - 👯 I’m looking to collaborate on **anything interesting**
 
-- 🤝 I’m looking for help with **.NET MAUI**
+- 🤝 I’m looking for help with **Nothing**
 
 - 👨‍💻 All of my projects are available at [https://danblock.dev](https://danblock.dev)
-
-- ⚡ My Curately link [https://curately.co.uk/danblock97](https://curately.co.uk/danblock97)
 
 - 💬 Ask me about **React, NextJS, tailwind css, Supabase**
 
