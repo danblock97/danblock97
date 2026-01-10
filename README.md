@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/goldiez2599" target="blank"><img src="https://img.shields.io/twitter/follow/goldiez2599?logo=twitter&style=for-the-badge" alt="goldiez2599" /></a> </p>
 
-- 🔭 I’m currently working on [Z3st Habits](https://z3st.app)
+- 🔭 I’m currently working on [Schedulr](https://schedulr.co.uk)
 
 - 🌱 I’m currently learning **Infrastructure**
 
