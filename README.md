@@ -2,10 +2,6 @@
 
 ### A passionate Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danblock97&label=Profile views&color=0e75b6&style=flat" alt="danblock97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danblock97" alt="danblock97" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/goldiez2599" target="blank"><img src="https://img.shields.io/twitter/follow/goldiez2599?logo=twitter&style=for-the-badge" alt="goldiez2599" /></a> </p>
 
 - 🔭 I'm currently working on **an iOS group scheduling application called Schedulr**
